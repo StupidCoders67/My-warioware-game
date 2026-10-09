@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cnmnkdog8kegp"
-path="res://.godot/imported/my brick png.png-4116ccda8783a8a1c43bc3ab396fce05.ctex"
+uid="uid://dqgydyx76eogq"
+path="res://.godot/imported/slime_purple.png-43dfa43f13125aefcc7affc07742c2cf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/my brick png.png"
-dest_files=["res://.godot/imported/my brick png.png-4116ccda8783a8a1c43bc3ab396fce05.ctex"]
+source_file="res://Assets/sprites/slime_purple.png"
+dest_files=["res://.godot/imported/slime_purple.png-43dfa43f13125aefcc7affc07742c2cf.ctex"]
 
 [params]
 
