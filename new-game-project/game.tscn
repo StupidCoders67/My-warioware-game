@@ -6,8 +6,8 @@
 [ext_resource type="PackedScene" path="res://platform_ice.tscn" id="4_fc0e3"]
 [ext_resource type="PackedScene" path="res://platform_grey.tscn" id="5_7jktm"]
 [ext_resource type="PackedScene" uid="uid://e7x8rylsm85x" path="res://Coin.tscn" id="6_ryrav"]
-[ext_resource type="PackedScene" path="res://killzone.tscn" id="7_eow3j"]
-[ext_resource type="PackedScene" path="res://Enemy.tscn" id="8_j5wjh"]
+[ext_resource type="PackedScene" uid="uid://bxe1h0wd4p3t8" path="res://killzone.tscn" id="7_eow3j"]
+[ext_resource type="PackedScene" uid="uid://bl4xotrrxxiv2" path="res://Enemy.tscn" id="8_j5wjh"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_feb5d"]
 texture = ExtResource("2_e2o6t")
